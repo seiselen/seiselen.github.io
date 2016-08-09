@@ -1,2 +1,2 @@
 # seiselen.github.io
-Making a Survival Horror Zombie Apocalypse RTS / Settlement Management game in a month
+For the coding part of my operations
