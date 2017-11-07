@@ -4,8 +4,8 @@
 
 ## Welcome to Steven Eiselen's GitHub Page
 
-[Twitter](https://twitter.com/StevenEiselen)
-[LinkedIn](https://www.linkedin.com/in/steveneiselen/)
+* [Twitter Page](https://twitter.com/StevenEiselen)
+* [LinkedIn Page](https://www.linkedin.com/in/steveneiselen/)
 
 ### Quick Bio:
 
