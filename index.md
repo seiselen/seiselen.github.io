@@ -4,10 +4,17 @@
 
 ## Welcome to Steven Eiselen's GitHub Page
 
+[Twitter](https://twitter.com/StevenEiselen)
+[LinkedIn](https://www.linkedin.com/in/steveneiselen/)
+
 ### Quick Bio:
 
-Steven Eiselen is a Graduate Student at the University of Arizona, studying for a Masters Degree in Computer Science. He currently works at the university's Center for Digital Humanities on a variety of projects involving interactive and immersive visualization, including projects with Virtual and Augmented Reality.
+Steven Eiselen is a Computer Science Graduate Student at the University of Arizona, where he currently works at the Center for Digital Humanities on a variety of projects involving interactive and immersive visualization, including Virtual and Augmented Reality.
 
-Before then: he worked for the university's Computer Science Department as the TA (Teaching Assistant) for the Senior Level Algorithms course (CSC 445) for both the Summer 2016, Fall 2016, and Spring 2017 semesters; and served as the instructor for the Summer 2017 Discrete Structures course (CSC 245).
+Before then: he was a TA for the Senior Level Algorithms course (CSC 445) for the Summer 2016, Fall 2016, and Spring 2017 semesters; and served as the instructor for the Summer 2017 Discrete Structures course (CSC 245).
 
-His interests include creative coding, geometric algorithms, simulation environments, game programming, artificial intelligence, 3D visualization/graphics, and Virtual/Augmented Reality visualization (among others, but the header says 'quick' bio).
+His interests include creative coding, geometric algorithms, simulation environments, game programming, artificial intelligence, 3D visualization/graphics, and Virtual/Augmented Reality visualization.
+
+### Visualization/Project Links:
+
+* [Testing direct view of p5js sketches](https://seiselen.github.io/directViewTest/)
