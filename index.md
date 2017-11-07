@@ -1,6 +1,6 @@
 
 
-![Eiselen Research Logo](https://seiselen.github.io/EisRes512_RevCol.jpg)
+![Eiselen Algorithmics Logo](https://seiselen.github.io/EisAlgWhtTsp.png)
 
 # Welcome to Steven Eiselen's GitHub Page
 
