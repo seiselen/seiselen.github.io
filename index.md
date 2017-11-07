@@ -18,6 +18,7 @@ His interests include creative coding, geometric algorithms, simulation environm
 ### Visualization/Project Links:
 
 * [Testing direct view of p5js sketches](https://seiselen.github.io/directViewTest/)
+* [Interactive Conway's Game Of Life](https://seiselen.github.io/GameOfLife_p5js/)
 
 
 #### Version 11/6/2017 (c) Steven Eiselen
