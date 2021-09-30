@@ -37,3 +37,14 @@ footer p {font-size: 1.25em; color: rgb(60, 60, 60); font-weight: bold; text-ali
 .codeDemoTable td:nth-child(1) a {font-size: 2em; vertical-align: top; font-weight: bold; color: blue;}
 .codeDemoTable td:nth-child(1) li {font-size: 1.5em;}
 .codeDemoTable td:nth-child(2){width: 256px;}
+
+.genTable {border: 1px solid rgb(60,60,60); border-collapse: collapse; min-width: 768px; margin-bottom: 16px;}
+.genTable td, th {border: 1px solid rgba(60, 60, 60, 0.5); padding: 2px 8px; font-size: 1.15em; font-weight: bold; color: rgb(60,60,60);}
+.genTable th {color: #FFFFFF; background-color: #3C3C3C;}
+.genTable tr:nth-child(odd) {background-color: #D8E4FF;}
+.genTable tr:nth-child(even) {background-color: #FFE4D8;}
+
+#genTabCustom1 td {text-align: center;}
+#genTabCustom2 td:nth-last-child(1) {text-align: center;}
+#genTabCustom3 td:nth-last-child(1) {text-align: center;}
+#genTabCustom3 td:nth-last-child(3) {text-align: center;}
