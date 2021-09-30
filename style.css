@@ -38,6 +38,7 @@ footer p {font-size: 1.25em; color: rgb(60, 60, 60); font-weight: bold; text-ali
 .codeDemoTable td:nth-child(1) li {font-size: 1.5em;}
 .codeDemoTable td:nth-child(2){width: 256px;}
 
+/*>>> USED FOR 'ABOUT' PAGE*/
 .genTable {border: 1px solid rgb(60,60,60); border-collapse: collapse; min-width: 768px; margin-bottom: 16px;}
 .genTable td, th {border: 1px solid rgba(60, 60, 60, 0.5); padding: 2px 8px; font-size: 1.15em; font-weight: bold; color: rgb(60,60,60);}
 .genTable th {color: #FFFFFF; background-color: #3C3C3C;}
@@ -48,3 +49,10 @@ footer p {font-size: 1.25em; color: rgb(60, 60, 60); font-weight: bold; text-ali
 #genTabCustom2 td:nth-last-child(1) {text-align: center;}
 #genTabCustom3 td:nth-last-child(1) {text-align: center;}
 #genTabCustom3 td:nth-last-child(3) {text-align: center;}
+
+/*>>> USED FOR 'RESEARCH' PAGE*/
+.genTab2 {border: 1px solid rgb(60,60,60); border-collapse: collapse; min-width: 768px; margin-bottom: 16px;}
+.genTab2 td, th {border: 1px solid rgba(60, 60, 60, 0.5); padding: 2px 8px; font-size: 1.15em; font-weight: bold; color: rgb(60,60,60); vertical-align: middle;}
+.genTab2 th {color: #FFFFFF; background-color: #3C3C80;}
+.genTab2 tr {background-color: #D8E4FF;}
+.genTab2 td:nth-child(1) {font-size: 1.5em;}
