@@ -43,4 +43,4 @@ at Crazy Bruce's Liquor's that the place <br>
 shaka chaka shaka chaka shaka chaka... <br>
 West Hartford and Bristol! <br>
 
-<h2> Crazy Bruce's Liquors
+<h2>Crazy Bruce's Liquors
