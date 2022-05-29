@@ -1,5 +1,5 @@
 
-[link](#Crazy Bruce's Liquors)
+[link](#crazy-bruces-liquors)
 
 I give you such good values, <br>
 I give you such good deals, <br>
