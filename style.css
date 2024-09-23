@@ -5,6 +5,50 @@
 |              but it's certainly better than giving none at all!
 +---------------------------------------------------------------------*/
 
+/*>>> NEW STUFF SEVERAL YEARS AND WEBDEV XP L8R >>>*/
+
+@font-face {
+  font-family: "TitWeb";
+  src: url('./assets/TitilliumWeb-Regular.ttf') format('embedded-opentype'),
+  url('./assets/TitilliumWeb-Regular.ttf') format('woff2'),
+  url('./assets/TitilliumWeb-Regular.ttf') format('woff'),
+  url('./assets/TitilliumWeb-Regular.ttf') format('truetype'),
+  url('./assets/TitilliumWeb-Regular.ttf') format('svg');
+  font-display:block;
+}
+
+@font-face {
+  font-family: "TitWebBold";
+  src: url('./assets/TitilliumWeb-Bold.ttf') format('embedded-opentype'),
+  url('./assets/TitilliumWeb-Bold.ttf') format('woff2'),
+  url('./assets/TitilliumWeb-Bold.ttf') format('woff'),
+  url('./assets/TitilliumWeb-Bold.ttf') format('truetype'),
+  url('./assets/TitilliumWeb-Bold.ttf') format('svg');
+  font-display:block;
+}
+
+@font-face {
+  font-family: "ShareTechMono";
+  src: url('./assets/share-tech-mono-latin-400-normal.ttf') format('embedded-opentype'),
+  url('./assets/share-tech-mono-latin-400-normal.ttf') format('woff2'),
+  url('./assets/share-tech-mono-latin-400-normal.ttf') format('woff'),
+  url('./assets/share-tech-mono-latin-400-normal.ttf') format('truetype'),
+  url('./assets/share-tech-mono-latin-400-normal.ttf') format('svg');
+  font-display:block;
+}
+
+
+
+.newEiStyle {font-family: "TitWeb";}
+
+.newEiStyle code {font-family: "ShareTechMono"; font-weight: bold; color: rgb(0, 0, 255);}
+
+.newEiStyle a {font-weight: bold;} 
+
+
+
+
+
 /*>>> SPECIFIC TO COMMON TAGS/ELEMENTS >>>*/
 body {color: darkblue; font-family:monospace; width: 768px;}
 p {font-size: 1.25em; text-align: justify; color: rgb(36, 36, 36);}
